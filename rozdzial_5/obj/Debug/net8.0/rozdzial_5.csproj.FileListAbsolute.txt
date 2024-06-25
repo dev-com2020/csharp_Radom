@@ -1,0 +1,15 @@
+/Users/tomaszkaniecki/csharp/rozdzial_5/bin/Debug/net8.0/rozdzial_5
+/Users/tomaszkaniecki/csharp/rozdzial_5/bin/Debug/net8.0/rozdzial_5.deps.json
+/Users/tomaszkaniecki/csharp/rozdzial_5/bin/Debug/net8.0/rozdzial_5.runtimeconfig.json
+/Users/tomaszkaniecki/csharp/rozdzial_5/bin/Debug/net8.0/rozdzial_5.dll
+/Users/tomaszkaniecki/csharp/rozdzial_5/bin/Debug/net8.0/rozdzial_5.pdb
+/Users/tomaszkaniecki/csharp/rozdzial_5/obj/Debug/net8.0/rozdzial_5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomaszkaniecki/csharp/rozdzial_5/obj/Debug/net8.0/rozdzial_5.AssemblyInfoInputs.cache
+/Users/tomaszkaniecki/csharp/rozdzial_5/obj/Debug/net8.0/rozdzial_5.AssemblyInfo.cs
+/Users/tomaszkaniecki/csharp/rozdzial_5/obj/Debug/net8.0/rozdzial_5.csproj.CoreCompileInputs.cache
+/Users/tomaszkaniecki/csharp/rozdzial_5/obj/Debug/net8.0/rozdzial_5.sourcelink.json
+/Users/tomaszkaniecki/csharp/rozdzial_5/obj/Debug/net8.0/rozdzial_5.dll
+/Users/tomaszkaniecki/csharp/rozdzial_5/obj/Debug/net8.0/refint/rozdzial_5.dll
+/Users/tomaszkaniecki/csharp/rozdzial_5/obj/Debug/net8.0/rozdzial_5.pdb
+/Users/tomaszkaniecki/csharp/rozdzial_5/obj/Debug/net8.0/rozdzial_5.genruntimeconfig.cache
+/Users/tomaszkaniecki/csharp/rozdzial_5/obj/Debug/net8.0/ref/rozdzial_5.dll
