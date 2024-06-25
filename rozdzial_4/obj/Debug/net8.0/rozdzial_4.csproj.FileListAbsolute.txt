@@ -1,0 +1,15 @@
+/Users/tomaszkaniecki/csharp/rozdzial_4/bin/Debug/net8.0/rozdzial_4
+/Users/tomaszkaniecki/csharp/rozdzial_4/bin/Debug/net8.0/rozdzial_4.deps.json
+/Users/tomaszkaniecki/csharp/rozdzial_4/bin/Debug/net8.0/rozdzial_4.runtimeconfig.json
+/Users/tomaszkaniecki/csharp/rozdzial_4/bin/Debug/net8.0/rozdzial_4.dll
+/Users/tomaszkaniecki/csharp/rozdzial_4/bin/Debug/net8.0/rozdzial_4.pdb
+/Users/tomaszkaniecki/csharp/rozdzial_4/obj/Debug/net8.0/rozdzial_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomaszkaniecki/csharp/rozdzial_4/obj/Debug/net8.0/rozdzial_4.AssemblyInfoInputs.cache
+/Users/tomaszkaniecki/csharp/rozdzial_4/obj/Debug/net8.0/rozdzial_4.AssemblyInfo.cs
+/Users/tomaszkaniecki/csharp/rozdzial_4/obj/Debug/net8.0/rozdzial_4.csproj.CoreCompileInputs.cache
+/Users/tomaszkaniecki/csharp/rozdzial_4/obj/Debug/net8.0/rozdzial_4.sourcelink.json
+/Users/tomaszkaniecki/csharp/rozdzial_4/obj/Debug/net8.0/rozdzial_4.dll
+/Users/tomaszkaniecki/csharp/rozdzial_4/obj/Debug/net8.0/refint/rozdzial_4.dll
+/Users/tomaszkaniecki/csharp/rozdzial_4/obj/Debug/net8.0/rozdzial_4.pdb
+/Users/tomaszkaniecki/csharp/rozdzial_4/obj/Debug/net8.0/rozdzial_4.genruntimeconfig.cache
+/Users/tomaszkaniecki/csharp/rozdzial_4/obj/Debug/net8.0/ref/rozdzial_4.dll
