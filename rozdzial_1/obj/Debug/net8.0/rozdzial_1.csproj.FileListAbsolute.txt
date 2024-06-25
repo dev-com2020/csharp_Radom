@@ -1,0 +1,14 @@
+/Users/tomaszkaniecki/csharp/rozdzial_1/bin/Debug/net8.0/rozdzial_1
+/Users/tomaszkaniecki/csharp/rozdzial_1/bin/Debug/net8.0/rozdzial_1.deps.json
+/Users/tomaszkaniecki/csharp/rozdzial_1/bin/Debug/net8.0/rozdzial_1.runtimeconfig.json
+/Users/tomaszkaniecki/csharp/rozdzial_1/bin/Debug/net8.0/rozdzial_1.dll
+/Users/tomaszkaniecki/csharp/rozdzial_1/bin/Debug/net8.0/rozdzial_1.pdb
+/Users/tomaszkaniecki/csharp/rozdzial_1/obj/Debug/net8.0/rozdzial_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomaszkaniecki/csharp/rozdzial_1/obj/Debug/net8.0/rozdzial_1.AssemblyInfoInputs.cache
+/Users/tomaszkaniecki/csharp/rozdzial_1/obj/Debug/net8.0/rozdzial_1.AssemblyInfo.cs
+/Users/tomaszkaniecki/csharp/rozdzial_1/obj/Debug/net8.0/rozdzial_1.csproj.CoreCompileInputs.cache
+/Users/tomaszkaniecki/csharp/rozdzial_1/obj/Debug/net8.0/rozdzial_1.dll
+/Users/tomaszkaniecki/csharp/rozdzial_1/obj/Debug/net8.0/refint/rozdzial_1.dll
+/Users/tomaszkaniecki/csharp/rozdzial_1/obj/Debug/net8.0/rozdzial_1.pdb
+/Users/tomaszkaniecki/csharp/rozdzial_1/obj/Debug/net8.0/rozdzial_1.genruntimeconfig.cache
+/Users/tomaszkaniecki/csharp/rozdzial_1/obj/Debug/net8.0/ref/rozdzial_1.dll
