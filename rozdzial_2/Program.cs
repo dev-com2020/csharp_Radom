@@ -30,7 +30,7 @@ class Program {
         // Console.WriteLine("Wartosc zmiennej liczba: "+ liczba);
         // Console.WriteLine("Dlugosc zmiennej imie: "+ imie.ToUpper());
 
-        int[] array = Tablice.GetArray();
+        string[] array = Tablice.GetArray();
         Console.WriteLine("Tablica z innego pliku:");
         Tablice.PrintArray(array);
    

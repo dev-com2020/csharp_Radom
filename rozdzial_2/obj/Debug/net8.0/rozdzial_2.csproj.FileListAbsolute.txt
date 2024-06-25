@@ -12,3 +12,4 @@
 /Users/tomaszkaniecki/csharp/rozdzial_2/obj/Debug/net8.0/rozdzial_2.pdb
 /Users/tomaszkaniecki/csharp/rozdzial_2/obj/Debug/net8.0/rozdzial_2.genruntimeconfig.cache
 /Users/tomaszkaniecki/csharp/rozdzial_2/obj/Debug/net8.0/ref/rozdzial_2.dll
+/Users/tomaszkaniecki/csharp/rozdzial_2/obj/Debug/net8.0/rozdzial_2.sourcelink.json

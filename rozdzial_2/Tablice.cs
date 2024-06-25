@@ -6,10 +6,10 @@ namespace rozdzial_2
     public static class Tablice
     // dodajemy metodę GET oraz dodajemy metodę która wydrukuje tablice
     {
-        public static int[] GetArray(){
-            return new int[] { 1,2,3,4,5 };
+        public static string[] GetArray(){
+            return new string[] { "Tomek","Janek","Franek" };
         }
-        public static void PrintArray(int[] array){
+        public static void PrintArray(string[] array){
             foreach (var item in array)
             {
                 Console.Write(item + " ");
@@ -70,3 +70,5 @@ namespace rozdzial_2
 }
 
 }
+
+// https://github.com/dev-com2020/csharp_Radom
