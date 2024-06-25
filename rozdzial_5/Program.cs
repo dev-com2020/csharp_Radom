@@ -5,11 +5,11 @@ namespace rozdzial_5
 class Program {
     static void Main(string[] args) 
     {
-       Employee obj1 = new Employee();
-       obj1.EmployeeId = 1;
-       obj1.FirstName = "Jan";
-       obj1.LastName = "Kowalski";
+       Employee obj1 = new Employee(1,"Jan","Kowalski");
        Console.WriteLine(obj1.FirstName);
+       string fullName = obj1.GetEmployeeName();
+       Console.WriteLine($"Imię i nazwisko: {fullName} ");
+       Console.WriteLine("ID pracownika obj1: {0}", obj1.EmployeeId);
     }
 }
 }
