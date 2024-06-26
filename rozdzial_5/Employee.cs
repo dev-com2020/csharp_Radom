@@ -46,5 +46,6 @@ namespace rozdzial_5
         //     return $"{FirstName} {LastName}";
         // }
         public string GetEmployeeName() => $"{FirstName} {LastName}";
+         public string GetEmployeeComplete() => $"{FirstName} {LastName} - {stanowisko}";
     }
 }
