@@ -6,12 +6,24 @@ using System.Text;
 namespace rozdzial_5
 {
     class Employee
-    // wprowadź do konstruktora pola First i LastName
     {
         public const int StartId = 100;
         public readonly int EmployeeId;
-        public string FirstName;
-        public string LastName;
+        private string firstName;
+        private string lastName;
+
+        public string FirstName
+        {
+            get {return FirstName;}
+            set { firstName = value;}
+        }
+                public string LastName
+        {
+            get {return LastName;}
+            set { lastName = value;}
+        }
+
+
         public Employee(int id, string Fname,string LName)
         {
             EmployeeId = id;

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("rozdzial_5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74bb2408e8a8b241943c26e8389ec4234db10399")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9689fb8a192044a1cf62256d3998a644acdb313e")]
 [assembly: System.Reflection.AssemblyProductAttribute("rozdzial_5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("rozdzial_5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
