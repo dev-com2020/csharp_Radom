@@ -37,9 +37,9 @@ namespace rozdzial_5
 
         public Employee(int id, string Fname, string LName)
         {
-            EmployeeId = id;
-            FirstName = Fname;
-            LastName = LName;
+            this.EmployeeId = id;
+            this.FirstName = Fname;
+            this.LastName = LName;
         }
         // public string GetEmployeeName()
         // {
