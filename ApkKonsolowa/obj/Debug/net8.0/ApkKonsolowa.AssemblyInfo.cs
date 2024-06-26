@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApkKonsolowa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+acf226a3bcf9d007f4d25c7cf82336d469194aa4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cf9ddc54b1ad3850f0452b83469af8d0f176361")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApkKonsolowa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApkKonsolowa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

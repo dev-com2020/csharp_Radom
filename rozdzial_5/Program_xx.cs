@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace ApkKonsolowa
 {
-    internal static class Program
+    internal static class Program_xx
     {
         private const int NumberOfElements = 5;
 
@@ -11,7 +11,7 @@ namespace ApkKonsolowa
 
         public static void Main(string[] args)
         {
-            Console.WriteLine("Wczytywanie 5 liczb z klawiatury: ");
+            Console.WriteLine("Wczytywanie 10 liczb z klawiatury: ");
             
             for (var i = 0; i < NumberOfElements; i++)
             {
@@ -20,7 +20,7 @@ namespace ApkKonsolowa
                 _integerArray[i] = add;
             }
             
-            Array.Sort(_integerArray);
+            SelectionSort(_integerArray);
             
             Console.WriteLine("Po sortowaniu: ");
             
@@ -33,17 +33,27 @@ namespace ApkKonsolowa
             Console.WriteLine(GetHighestNumber(_integerArray));
         }
 
-        private static int GetHighestNumber(int[] list)
+        private static int[] SelectionSort(int[] list)
         {
-            int max = list[0];
-            for (int i = 1; i < list.Length; i++)
+            for (var i = 0; i < NumberOfElements - 1 ; i++)
             {
-                if (list[i] > max)
+                var max = i;
+
+                for (var j = i + 1 ; j < NumberOfElements; j++)
                 {
-                    max = list[i];
+                    if (list[max] < list[j])
+                        max = j;
                 }
+                
+                (list[max], list[i]) = (list[i], list[max]);
             }
-            return max;
+
+            return list;
+        }
+
+        private static int GetHighestNumber(IList<int> list)
+        {
+            return list[0];
         }
     }
 }
