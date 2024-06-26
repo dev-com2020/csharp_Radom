@@ -14,12 +14,12 @@ namespace rozdzial_5
 
         public string FirstName
         {
-            get {return FirstName;}
+            get {return firstName;}
             set { firstName = value;}
         }
                 public string LastName
         {
-            get {return LastName;}
+            get {return lastName;}
             set { lastName = value;}
         }
 
