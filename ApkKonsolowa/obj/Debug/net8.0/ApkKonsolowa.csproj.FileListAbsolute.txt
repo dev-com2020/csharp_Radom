@@ -1,0 +1,15 @@
+/Users/tomaszkaniecki/csharp/ApkKonsolowa/bin/Debug/net8.0/ApkKonsolowa
+/Users/tomaszkaniecki/csharp/ApkKonsolowa/bin/Debug/net8.0/ApkKonsolowa.deps.json
+/Users/tomaszkaniecki/csharp/ApkKonsolowa/bin/Debug/net8.0/ApkKonsolowa.runtimeconfig.json
+/Users/tomaszkaniecki/csharp/ApkKonsolowa/bin/Debug/net8.0/ApkKonsolowa.dll
+/Users/tomaszkaniecki/csharp/ApkKonsolowa/bin/Debug/net8.0/ApkKonsolowa.pdb
+/Users/tomaszkaniecki/csharp/ApkKonsolowa/obj/Debug/net8.0/ApkKonsolowa.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomaszkaniecki/csharp/ApkKonsolowa/obj/Debug/net8.0/ApkKonsolowa.AssemblyInfoInputs.cache
+/Users/tomaszkaniecki/csharp/ApkKonsolowa/obj/Debug/net8.0/ApkKonsolowa.AssemblyInfo.cs
+/Users/tomaszkaniecki/csharp/ApkKonsolowa/obj/Debug/net8.0/ApkKonsolowa.csproj.CoreCompileInputs.cache
+/Users/tomaszkaniecki/csharp/ApkKonsolowa/obj/Debug/net8.0/ApkKonsolowa.sourcelink.json
+/Users/tomaszkaniecki/csharp/ApkKonsolowa/obj/Debug/net8.0/ApkKonsolowa.dll
+/Users/tomaszkaniecki/csharp/ApkKonsolowa/obj/Debug/net8.0/refint/ApkKonsolowa.dll
+/Users/tomaszkaniecki/csharp/ApkKonsolowa/obj/Debug/net8.0/ApkKonsolowa.pdb
+/Users/tomaszkaniecki/csharp/ApkKonsolowa/obj/Debug/net8.0/ApkKonsolowa.genruntimeconfig.cache
+/Users/tomaszkaniecki/csharp/ApkKonsolowa/obj/Debug/net8.0/ref/ApkKonsolowa.dll
